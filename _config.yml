@@ -33,6 +33,7 @@ github_username: pyroll-project
 remote_theme: jekyll/minima
 plugins:
   - github-pages
+markdown: kramdown
 
 header_pages:
   - about.md
