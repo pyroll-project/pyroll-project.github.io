@@ -1,0 +1,3 @@
+[submodule "modules/pyroll-core"]
+	path = modules/pyroll-core
+	url = ../pyroll-core
