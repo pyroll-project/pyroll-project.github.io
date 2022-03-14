@@ -3,6 +3,8 @@ layout: home
 list_title: News
 ---
 
+![PyRoll Banner](img/pyroll_banner.svg)
+
 Welcome to The PyRoll Project!
 
 PyRoll is an OpenSource rolling framework, aimed to provide a fast and extensible base for rolling simulation. The

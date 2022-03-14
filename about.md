@@ -8,7 +8,7 @@ The PyRoll Project is an OpenSource Project maintained by the Institute of Metal
 University Bergakademie Freiberg. It is closely related to the International Center for Groove Pass Design located at
 the IMF.
 
-Please contact us using kalibrierzentrum@imf.tu-freiberg.de.
+Please contact us using [kalibrierzentrum@imf.tu-freiberg.de](mailto:kalibrierzentrum@imf.tu-freiberg.de).
 
 ## Responsible for Content
 
