@@ -17,7 +17,9 @@ and extend the model set available to describe the process.
 The project maintains the core package and a bunch of additional plugin packages listed in the following. If you would
 like your package listed here, please [contact us](mailto:kalibrierzentrum@imf.tu-freiberg.de).
 
-- Core package `pyroll-core`: [source](https://github.com/pyroll-project/pyroll-core), [docs](modules/pyroll-core/docs/index)
+- Core package `pyroll-core`: [source](https://github.com/pyroll-project/pyroll-core), [docs](modules/pyroll-core/docs/index.md)
+- Wusatowski spreading model package `pyroll-wusatowski-spreading`: [source](https://github.com/pyroll-project/pyroll-wusatowski-spreading), [docs](https://github.com/pyroll-project/pyroll-wusatowski-spreading/blob/main/docs/docs.pdf)
+- Freiberg flow stress model package `pyroll-freiberg-flow-stress`: [source](https://github.com/pyroll-project/pyroll-freiberg-flow-stress), [docs](modules/pyroll-freiberg-flow-stress/docs/index.md)
 
 ## Contributing
 
