@@ -4,3 +4,6 @@
 [submodule "modules/pyroll-freiberg-flow-stress"]
 	path = modules/pyroll-freiberg-flow-stress
 	url = ../pyroll-freiberg-flow-stress
+[submodule "modules/pyroll-integral-thermal"]
+	path = modules/pyroll-integral-thermal
+	url = ../pyroll-integral-thermal

@@ -20,6 +20,8 @@ like your package listed here, please [contact us](mailto:kalibrierzentrum@imf.t
 - Core package `pyroll-core`: [source](https://github.com/pyroll-project/pyroll-core), [docs](modules/pyroll-core/docs/index.md)
 - Wusatowski spreading model package `pyroll-wusatowski-spreading`: [source](https://github.com/pyroll-project/pyroll-wusatowski-spreading), [docs](https://github.com/pyroll-project/pyroll-wusatowski-spreading/blob/main/docs/docs.pdf)
 - Freiberg flow stress model package `pyroll-freiberg-flow-stress`: [source](https://github.com/pyroll-project/pyroll-freiberg-flow-stress), [docs](modules/pyroll-freiberg-flow-stress/docs/index.md)
+- Integral thermal model package `pyroll-integral-thermal`: [source](https://github.com/pyroll-project/pyroll-integral-thermal), [docs](modules/pyroll-integral-thermal/docs/docs.md)
+
 
 ## Contributing
 
