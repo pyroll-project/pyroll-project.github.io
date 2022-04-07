@@ -1,6 +1,3 @@
-[submodule "modules/pyroll-core"]
-	path = modules/pyroll-core
-	url = ../pyroll-core
 [submodule "modules/pyroll-freiberg-flow-stress"]
 	path = modules/pyroll-freiberg-flow-stress
 	url = ../pyroll-freiberg-flow-stress
