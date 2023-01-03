@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 ![PyRolL Banner](img/pyroll_banner.svg)
 
 # PyRolL Rolling Simulation Framework

@@ -1,0 +1,19 @@
+title: The PyRoll Project
+email: kalibrierzentrum@imf.tu-freiberg.de
+description: >-
+  PyRoll is an OpenSource rolling framework, aimed to provide a fast and extensible base for rolling simulation.
+  The current focus lies on groove rolling in elongation grooves.
+  The core packages comes with a basic set of models to allow a first estimation of forces and torques occurring in a pass sequence.
+  There is a flexible plugin system, able to modify and extend the model set available to describe the process.
+baseurl: ""
+url: ""
+github_username: pyroll-project
+
+# Build settings
+remote_theme: jekyll/minima
+plugins:
+  - github-pages
+
+titles_from_headings:
+  enabled:     true
+  strip_title: true
